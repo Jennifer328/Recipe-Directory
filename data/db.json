@@ -1,0 +1,83 @@
+{
+  "recipes": [
+    {
+      "id": "1",
+      "title": "Veggie Stew",
+      "ingredients": [
+        "1 Carrot",
+        "1 Leek",
+        "200g Tofu",
+        "300ml Veg stock"
+      ],
+      "method": "1. Pre-heat the oven to 200C/3C/gas 5. Place the carrot, leek and tofu in a large bowl. Add the stock and mix well. 2. Add the rest of the ingredients and mix well. 3. Place the mixture in a large bowl and cover with a lid. 4. Place the lid on the oven and cook for 40 minutes. 5. Serve with a slaw of your choice",
+      "cookingTime": "45 minutes"
+    },
+    {
+      "id": "2",
+      "title": "Veggie Pizza",
+      "ingredients": [
+        "1 Base",
+        "Tomata pasata",
+        "1 Green pepper",
+        "100g Mushrooms"
+      ],
+      "method": "1. Pre-heat the oven to 200C/3C/gas 5. Add the pasata, green pepper and mushrooms to the base. Place the lid on the oven and cook for 30 minutes. 5. Serve with a slaw of your choice",
+      "cookingTime": "35 minutes"
+    },
+    {
+      "id": "3",
+      "title": "Greek Salad",
+      "ingredients": [
+        "1 Onion",
+        "1 Block of Feta",
+        "Olives",
+        "Tomatoes",
+        "Olive Oil"
+      ],
+      "method": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Esse minima ex rem quis similique eum ratione quaerat, voluptas molestias ut repudiandae delectus voluptates. Eius esse at tenetur ab accusamus excepturi?",
+      "cookingTime": "35 minutes"
+    },
+    {
+      "title": "Chicken Soup",
+      "ingredients": [
+        "chicken",
+        "mushrooms",
+        "leek"
+      ],
+      "method": "1. clean chicken and mushrooms. 2. add water in the bowl and put chicken inside bolling 20minutes 3. add mushrooms and leek",
+      "cookingTime": "45 minutes",
+      "id": "cjoz5jp"
+    },
+    {
+      "title": "Chocolate Gelato",
+      "ingredients": [
+        "whole milk",
+        "whipping cream",
+        "corn syrup",
+        "sugar",
+        "salt",
+        "chocolate",
+        "egg yolks"
+      ],
+      "method": "1.Combine milk,cream,corn syrup,sugar,salt and chocolate.Cook over medium heat, stirring. 2.Transfer mixture to a shallow bowl and refrigerate for 8 hours. 3.Whisk the chilled custard and pour into ice cream maker.",
+      "cookingTime": "30 minutes",
+      "id": "LIMCzvf"
+    },
+    {
+      "title": "Beef Tacos",
+      "ingredients": [
+        "lean ground beef",
+        "chili powder",
+        "ground cumin",
+        "dried oregano",
+        "garlic powder",
+        "black pepper",
+        "tomato sauce",
+        "taco shells"
+      ],
+      "method": "1.Add the beef to a large skillet over medium-high heat. Break the meat apart with a wooden spoon. Add the chili powder, cumin, salt, oregano, garlic powder, and pepper to the meat. Stir well. Cook until the meat is cooked through, about 6-8 minutes, stirring occasionally. 2.Reduce the heat to medium. Add the tomato sauce and water. Stir to combine. Cook, stirring occasionally, for 7-8 minutes, until some of the liquid evaporates but the meat mixture is still a little saucy. Remove from the heat. 3.Warm the taco shells according to their package directions. 4.Fill the taco shells with 2 heaping tablespoons of taco meat. Top with desired taco toppings: shredded cheese, shredded lettuce, chopped tomatoes, diced red onion, taco sauce, sour cream, guacamole, etc",
+      "cookingTime": "20 minutes",
+      "id": "wdVWabN"
+    }
+  ]
+}
